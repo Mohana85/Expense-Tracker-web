@@ -16,7 +16,8 @@ Past expense history with edit and delete options
 Interactive expense visualization using charts
 
 Profile editing (name, salary, profile image)
-🛠️ Technologies Used
+
+🛠️Technologies Used:
 HTML5
 CSS3
 JavaScript
